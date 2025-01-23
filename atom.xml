@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>huajikl</title>
+  <icon>https://huajikl.github.io/icon.png</icon>
+  <subtitle>huajikl</subtitle>
+  <link href="https://huajikl.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://huajikl.github.io/"/>
+  <updated>2025-01-23T12:07:17.255Z</updated>
+  <id>https://huajikl.github.io/</id>
+  
+  <author>
+    <name>huajikl</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>解决雷曼起源或传奇掉帧</title>
+    <link href="https://huajikl.github.io/2024/04/02/%E8%A7%A3%E5%86%B3%E9%9B%B7%E6%9B%BC%E6%8E%89%E5%B8%A7/"/>
+    <id>https://huajikl.github.io/2024/04/02/%E8%A7%A3%E5%86%B3%E9%9B%B7%E6%9B%BC%E6%8E%89%E5%B8%A7/</id>
+    <published>2024-04-02T15:40:36.000Z</published>
+    <updated>2025-01-23T12:07:17.255Z</updated>
+    
+    
+    <summary type="html">最近在玩雷曼但是游戏时常掉帧，影响游戏体验，所以寻找解决方法</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何安装cuda</title>
+    <link href="https://huajikl.github.io/2024/02/06/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85cuda/"/>
+    <id>https://huajikl.github.io/2024/02/06/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85cuda/</id>
+    <published>2024-02-06T14:34:27.000Z</published>
+    <updated>2025-01-23T10:07:51.269Z</updated>
+    
+    
+    <summary type="html">关于cuda的安装</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>整理</title>
+    <link href="https://huajikl.github.io/2024/01/21/%E6%95%B4%E7%90%86/"/>
+    <id>https://huajikl.github.io/2024/01/21/%E6%95%B4%E7%90%86/</id>
+    <published>2024-01-21T07:54:34.000Z</published>
+    <updated>2025-01-23T12:08:02.008Z</updated>
+    
+    
+    <summary type="html">啥也没有</summary>
+    
+    
+    
+    
+    <category term="资源" scheme="https://huajikl.github.io/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>游戏清单</title>
+    <link href="https://huajikl.github.io/2024/01/21/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/"/>
+    <id>https://huajikl.github.io/2024/01/21/%E6%B8%B8%E6%88%8F%E6%B8%85%E5%8D%95/</id>
+    <published>2024-01-21T07:21:03.000Z</published>
+    <updated>2025-01-23T09:30:25.079Z</updated>
+    
+    
+    <summary type="html">啥也没有</summary>
+    
+    
+    
+    
+    <category term="资源" scheme="https://huajikl.github.io/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>H27V22屏幕设置参数</title>
+    <link href="https://huajikl.github.io/2024/01/21/H27V22%E5%B1%8F%E5%B9%95%E8%AE%BE%E7%BD%AE%E5%8F%82%E6%95%B0/"/>
+    <id>https://huajikl.github.io/2024/01/21/H27V22%E5%B1%8F%E5%B9%95%E8%AE%BE%E7%BD%AE%E5%8F%82%E6%95%B0/</id>
+    <published>2024-01-21T07:19:07.000Z</published>
+    <updated>2024-05-26T14:49:00.986Z</updated>
+    
+    
+    <summary type="html">只是方便我自己观看</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
